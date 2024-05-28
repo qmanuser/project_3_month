@@ -1,0 +1,25 @@
+{
+  "courses": [
+    {
+      "title": "python",
+      "description": "Bu python kursi",
+      "price": "100",
+      "modules": "8",
+      "mentor": "Muhammad"
+    },
+    {
+      "title": "C dasturlash tili",
+      "description": "Bu C dasturlash tili kursi",
+      "price": "200",
+      "modules": "12",
+      "mentor": "Xasan"
+    },
+    {
+      "title": "Java",
+      "description": "Bu Java kursi",
+      "price": "150",
+      "modules": "10",
+      "mentor": "Akbarali"
+    }
+  ]
+}

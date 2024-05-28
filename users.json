@@ -1,0 +1,36 @@
+{
+      "users": [
+            {
+                  "first_name": "ali",
+                  "last_name": "vali",
+                  "username": "alijon",
+                  "password": "ali123",
+                  "create_date": "2024-04-11",
+                  "status": "admin"
+            },
+            {
+                  "first_name": "dev",
+                  "last_name": "python",
+                  "username": "cdmen",
+                  "password": "child2005",
+                  "create_date": "2024-04-11",
+                  "status": "admin"
+            },
+            {
+                  "first_name": "xusan",
+                  "last_name": "xasanov",
+                  "username": "xusan123",
+                  "password": "1234",
+                  "create_date": "2024-04-16",
+                  "status": "user"
+            },
+            {
+                  "first_name": "qanat",
+                  "last_name": "i",
+                  "username": "ism",
+                  "password": "ism",
+                  "create_date": "2024-05-28",
+                  "status": "user"
+            }
+      ]
+}
